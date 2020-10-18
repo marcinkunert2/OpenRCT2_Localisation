@@ -1,0 +1,15 @@
+#: example text
+msgid "message_1"
+msgstr "This is written in english"
+msgid "STR_0008"
+msgstr "Monorail"
+
+#: MALE
+msgctxt "male"
+msgid "is_tall"
+msgstr "%s is tall"
+
+#: FEMALE
+msgctxt "female"
+msgid "is_tall"
+msgstr "%s is tall"
