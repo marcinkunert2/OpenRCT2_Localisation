@@ -29,3 +29,11 @@ msgid "STR_0020"
 msgstr "Chairlift"
 msgid "STR_0021"
 msgstr "Corkscrew Roller Coaster"
+
+msgctxt "male"
+msgid "is_tall"
+msgstr "%s is tall"
+
+msgctxt "female"
+msgid "is_tall"
+msgstr "%s is tall"
