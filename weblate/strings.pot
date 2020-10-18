@@ -1,0 +1,3 @@
+#: example text
+msgid "message_1"
+msgstr "This is written in english"
