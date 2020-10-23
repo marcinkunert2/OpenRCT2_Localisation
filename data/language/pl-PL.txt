@@ -11,7 +11,6 @@ STR_0019    :Kolejka kopalniana
 STR_0020    :Wyciąg krzesełkowy
 STR_0021    :Kolejka górska korkociąg
 STR_0023    :Spiralna zjeżdżalnia
-STR_0024    :Gokarty
 STR_0025    :Zjazd na kłodach
 STR_0026    :Katarakty rzeczne
 STR_0027    :Samochodziki
