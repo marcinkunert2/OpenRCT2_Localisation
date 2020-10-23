@@ -10,7 +10,6 @@ STR_0018    :Zjeżdżalnia wodna
 STR_0019    :Kolejka kopalniana
 STR_0020    :Wyciąg krzesełkowy
 STR_0021    :Kolejka górska korkociąg
-STR_0022    :Labirynt
 STR_0023    :Spiralna zjeżdżalnia
 STR_0024    :Gokarty
 STR_0025    :Zjazd na kłodach
