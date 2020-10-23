@@ -5,10 +5,6 @@ STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
 STR_0002    :Spiralna kolejka górska
 STR_0003    :Stojąca kolejka górska
-STR_0004    :Podwieszana kolejka górska
-STR_0014    :Wystrzałowa spadajka
-STR_0015    :Bobsleje
-STR_0016    :Wieża obserwacyjna
 STR_0017    :Pętlowa kolejka górska
 STR_0018    :Zjeżdżalnia wodna
 STR_0019    :Kolejka kopalniana
